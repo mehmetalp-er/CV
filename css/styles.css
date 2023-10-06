@@ -200,3 +200,44 @@ hr {
 .copyright {
   font-size: 0.75rem;
 }
+
+
+@media only screen and (min-device-width: 480px){
+  .skill-row1 {
+    width: 90%;
+    margin: 80px auto 100px auto;
+    text-align: left;
+  }
+  
+  .skill-row2 {
+    width: 90%;
+    margin: 80px auto 100px auto;
+    text-align: left;
+  }
+  
+  .skill-row3 {
+    width: 90%;
+    margin: 80px auto;
+    text-align: left;
+  }
+  
+  .skill-img1 {
+    width: 50%;
+    float: middle;
+    margin-right: 30px;
+  }
+  
+  .skill-img2 {
+    width: 50%;
+    float: middle;
+    margin-left: 30px;
+  }
+  
+  .skill-img3 {
+    width: 50%;
+    float: middle;
+    margin-right: 30px;
+  }
+
+
+}
