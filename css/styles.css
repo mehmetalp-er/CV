@@ -40,6 +40,12 @@ html {
   text-align: left;
 }
 
+.skill-row3 {
+  width: 50%;
+  margin: 80px auto;
+  text-align: left;
+}
+
 .skill-img1 {
   width: 25%;
   float: left;
@@ -50,6 +56,12 @@ html {
   width: 25%;
   float: right;
   margin-left: 30px;
+}
+
+.skill-img3 {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
 }
 
 body {
